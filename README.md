@@ -24,4 +24,4 @@ The web version is built for desktop/laptop users such as pharmacists, clinic st
 
 📂 File
 
-[Web Version (PDF)](Future Smart Pharmacy System-WEBv.pdf)  
+![Web Version (PDF)](Future Smart Pharmacy System-WEBv.pdf)  
