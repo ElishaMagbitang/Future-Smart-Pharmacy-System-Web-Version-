@@ -23,5 +23,4 @@ The web version is built for desktop/laptop users such as pharmacists, clinic st
 6. Patient Communication (PC): Real-time chat between patients and pharmacists/doctors.
 
 📂 File
-
-![Web Version (PDF)](Future Smart Pharmacy System-WEBv.pdf)  
+[Web Version (PDF)](Future Smart Pharmacy System-WEBv)
