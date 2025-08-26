@@ -27,4 +27,4 @@ The web version is built for desktop/laptop users such as pharmacists, clinic st
 [💻 Web Version (PDF)](./Future%20Smart%20Pharmacy%20System-WEBv.pdf)
 
 # Web Preview
-![iPad Preview](./fsps-web.png)
+![Web Preview](./fsps-web.png)
